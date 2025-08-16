@@ -1,0 +1,6 @@
+kagglehub==0.3.12
+
+langchain-core==0.3.74
+langchain-community==0.3.27
+
+sentence-transformers==5.1.0  # HuggingFace embedding model
